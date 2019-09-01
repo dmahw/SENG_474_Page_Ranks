@@ -37,7 +37,7 @@ Question 2 Part B Dead Ends for 800k Dataset:
 
 
 ## Commands to run
-`python p3q1_10k.py web-Google_10k.txt`
-`python p3q1_800k.py web-Google.txt`
-`python p3q2_10k.py web-Google_10k.txt`
-`python p3q2_800k.py web-Google.txt`
+* `python p3q1_10k.py web-Google_10k.txt`
+* `python p3q1_800k.py web-Google.txt`
+* `python p3q2_10k.py web-Google_10k.txt`
+* `python p3q2_800k.py web-Google.txt`
